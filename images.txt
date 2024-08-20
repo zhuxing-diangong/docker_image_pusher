@@ -1,4 +1,4 @@
 nginx
 emby/embyserver
 ddsderek/xiaoya-glue
-immich-app/immich.git
+immich-app/immich
