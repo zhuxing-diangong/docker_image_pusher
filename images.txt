@@ -1,3 +1,6 @@
-nginx
 emby/embyserver
 ddsderek/xiaoya-glue
+immich-app/immich-server
+immich-app/immich-machine-learning
+redis:6.2-alpine
+tensorchord/pgvecto-rs:pg14-v0.2.0
