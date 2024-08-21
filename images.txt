@@ -5,3 +5,4 @@ altran1502/immich-machine-learning
 altran1502/immich-proxy
 altran1502/immich-web
 altran1502/immich-server
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
