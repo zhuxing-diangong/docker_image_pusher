@@ -1,5 +1,3 @@
-emby/embyserver
-ddsderek/xiaoya-glue
 immich-app/immich-server:${IMMICH_VERSION:-release}
 immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
 redis:6.2-alpine@sha256:e3b17ba9479deec4b7d1eeec1548a253acc5374d68d3b27937fcfe4df8d18c7e
