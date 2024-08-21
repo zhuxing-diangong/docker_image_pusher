@@ -1,2 +1,4 @@
-altran1502/immich-server
-altran1502/immich-machine-learning
+immich-app/immich-server:${IMMICH_VERSION:-release}
+immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+redis:6.2-alpine@sha256:b6124ab2e45cc332e16398022a411d7e37181f21ff7874835e0180f56a09e82a
+tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
