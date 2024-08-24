@@ -1,1 +1,1 @@
-hubmirrorbytogettoyou/tensorchord.pgvecto-rs
+hubmirrorbytogettoyou/tensorchord.pgvecto-rs:latest
