@@ -1,3 +1,1 @@
-altran1502/immich-server
-altran1502/immich-machine-learning
-redis:6.2-alpine
+hubmirrorbytogettoyou/tensorchord.pgvecto-rs
