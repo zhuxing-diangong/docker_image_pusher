@@ -1,4 +1,4 @@
 altran1502/immich-server
 altran1502/immich-machine-learning
 redis:6.2-alpine
-tensorchord/cloudnative-pgvecto-rs
+tensorchord/pgvecto-rs:latest
