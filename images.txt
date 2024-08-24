@@ -1,4 +1,4 @@
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
+immich-app/immich-server
+immich-app/immich-machine-learning
 redis:6.2-alpine
-tensorchord/pgvecto-rs
+pgvecto-rs
