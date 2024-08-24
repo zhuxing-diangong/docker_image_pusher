@@ -1,1 +1,1 @@
-deepak484sakthi2004/pgvecto-rs
+tensorchord/pgvecto-rs
