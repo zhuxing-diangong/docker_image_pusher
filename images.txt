@@ -1,4 +1,4 @@
-immich-app/immich-server
-immich-app/immich-machine-learning
+immich-server
+immich-machine-learning
 redis:6.2-alpine
 pgvecto-rs
