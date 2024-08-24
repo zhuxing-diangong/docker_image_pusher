@@ -1,1 +1,1 @@
-hubmirrorbytogettoyou/tensorchord.pgvecto-rs:latest
+deepak484sakthi2004/pgvecto-rs
