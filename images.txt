@@ -1,1 +1,1 @@
-hubmirrorbytogettoyou/docker.io.tensorchord.pgvecto-rs
+docker.io.tensorchord.pgvecto-rs
