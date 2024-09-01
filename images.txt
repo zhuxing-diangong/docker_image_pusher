@@ -1,1 +1,3 @@
-haishanh/yacd
+ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+
