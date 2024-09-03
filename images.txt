@@ -1,1 +1,1 @@
-ghcr.io/immich-app/immich-machine-learning:latest
+jeessy/ddns-go
