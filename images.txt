@@ -1,1 +1,1 @@
-selenium/standalone-chrome
+kasmweb/chrome
