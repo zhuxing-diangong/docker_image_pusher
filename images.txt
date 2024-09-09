@@ -1,1 +1,1 @@
-kasmweb/chrome:1.14.
+kasmweb/chrome:1.14.0
